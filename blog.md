@@ -25,5 +25,3 @@ So we made the LED's to be wrestlers and the breadborad to be the fight arena. A
 The post-shooting consisted in editing the video and adding sound to the crowd and the characters. We recorded gibberish sounds for the characters voices and used open sound effects for the crowd, the fight sounds and the boxing bell. The final result of this work can be seen following the next link.
 
 [![](https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_1/WWLED5.jpg)](https://player.vimeo.com/video/298285612)
-
-<iframe src="https://player.vimeo.com/video/298285612" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
