@@ -8,7 +8,6 @@ The first question we asked was *what story to tell?*, which is a great question
 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_1/dead_bugs.jpg" align="middle" width="70%">
-  Dead bugs after applying insecticide.
 </p>
 
 <iframe src="https://player.vimeo.com/video/298285612" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
