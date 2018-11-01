@@ -10,6 +10,20 @@ The first question we asked ourselves was *what story to tell?*, which is a grea
   <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_1/dead_bugs.jpg" align="middle" width="70%">
 </p>
 
-The story of a family of bugs became into a competition of electronic components which later became into the "Led Olympics": we wanted to recreate the olympic games with components but the time constraint -30 seconds of animation- gave us the answer: *why not just LEDs wrestling?*. 
+The story of a family of bugs became into a competition of electronic components which later became into the "Led Olympics": we wanted to recreate the olympic games with components but the time constraint -30 seconds of animation- gave us the answer: *why not just LEDs wrestling?*.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_1/stadium.jpg" align="middle" width="70%">
+</p>
+
+So we made the LED's to be wrestlers and the breadborad to be the fight arena. Apart from the LED's we made a resistor to be the referee, two capacitors to be the commentators and a bunch of other components to be the audience. The shoot took about 5 hours and we did it in one night.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_1/shooting.jpg" align="middle" width="70%">
+</p>
+
+The post-shooting consisted in editing the video and adding sound to the crowd and the characters. We recorded gibberish sounds for the characters voices and used open sound effects for the crowd, the fight sounds and the boxing bell. The final result of this work can be seen following the next link.
+
+[![](https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_1/WWLED5.jpg)](https://player.vimeo.com/video/298285612)
 
 <iframe src="https://player.vimeo.com/video/298285612" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
