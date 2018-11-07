@@ -46,10 +46,10 @@ Then we talked about telling a futuristic story in which the flower can be invol
 As we wanted to talk about non-sense and dystopic futures our brainstorming evolved into a robot story, where robots survived to a post-futuristic world where humans had disappeared. As they just survived, there were no energy or fuel to feed robots, so they evolved into a state in which each unity could take energy from different elements, as flowers take energy from the sunlight through photosynthesis. There are some robots that take energy from oil (oil-o-synthesis), other from *Coke* cans (coke-o-synthesis) and other from flowers -they don't do photosynthesis, they steal energy from flowers.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/bender.jpg" align="middle" width="60%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/bender.jpg" align="middle" width="40%">
 </p>
 
-The main character -inspired in *Bender Rodríguez* from *Futurama*- is a poor robot that can't find anything to synthesize energy so he goes to a trash landfill -the parks from the future- where he finds the flower that grew up from trash. After looking at the flower he cuts it and puts it on his chest, stealing the flower's energy. After that the flower and the robot come into a passional interaction represented by the flower growing up and turning into a vine around the robot.
+The story starts in the empty landfill were the flower grows up, but the flower can be seen. After that other robots are shown feeding themselves by something-o-synthesis process with different elements a soda can, a clock and a decomposed fish. Then, a group of rich robots is shown eating human classic art -as Monet or van Gogh- in a fancy table. The main character -inspired in *Bender Rodríguez* from *Futurama*- is a poor robot that can't find anything to synthesize energy so he goes to a trash landfill -the parks from the future- where he finds the flower that grew up from trash. After looking at the flower he cuts it and puts it on his chest, stealing the flower's energy. After that the flower and the robot come into a passional interaction represented by the flower growing up and turning into a vine around the robot.
 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/story_1.jpg" align="middle" width="60%">
