@@ -1,6 +1,8 @@
 # Animation Blog
 *by Guillermo Montecinos, NYU ITP Fall 2018*
 
+This document and the contents stored in this repo corresponds to the class of Animation with the teacher [Marianne Petit](http://www.mariannepetit.com/), at NYU ITP taken during the 2018 Fall term.
+
 ## Week 1 - Stop Motion
 For the animation class first assignment we were committed to develop a motion animation, project in which I collaborated with [Idit Barak](https://wp.nyu.edu/iditbarak/category/class-work/cl-animation/) and [David Azar](https://www.davidazar.mx/blog/first-animation-ever).
 
@@ -25,3 +27,6 @@ So we made the LED's to be wrestlers and the breadborad to be the fight arena. A
 The post-shooting consisted in editing the video and adding sound to the crowd and the characters. We recorded gibberish sounds for the characters voices and used open sound effects for the crowd, the fight sounds and the boxing bell. The final result of this work can be seen following the next link.
 
 [![](https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_1/WWLED5.jpg)](https://player.vimeo.com/video/298285612)
+
+## Week 2 - Storyboard development and assets creation
+For week 2 we were committed to work in groups to develop a storyboard for a 1-3 minutes animation in AfterFX. For this I worked with Mingna Li and Nianqi Zhang
