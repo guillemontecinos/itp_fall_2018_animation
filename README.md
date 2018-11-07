@@ -34,5 +34,27 @@ For week 2 we were committed to work in groups to develop a storyboard for a 1-3
 Thursday after class my group and I talked about developing a non-sense story in which characters have behaviors that they don't use to have in *real life* (is that non-sense enough?), as Trump being kind or a flower growing up from a machine. We actually started with a flower, and that was all we had. Our expectations were not to tell a story of a nice flower but to set it in a weird landscape or make it fight or to be rude, as the flowers of Pink Floyd's movie *The Wall* that represent passion and destruction.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/wall_flowers.jpg" align="middle" width="70%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/wall_flowers.jpg" align="middle" width="60%">
+</p>
+
+Then we talked about telling a futuristic story in which the flower can be involved. We thought that our flower could go to space, interact with robots and even we speculated that we could tell the alternative story of the Little Prince's flower. But finally we just decided to talk about a flower that grows up in a landfill full of trash.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/little_prince_flower.jpg" align="middle" width="60%">
+</p>
+
+As we wanted to talk about non-sense and dystopic futures our brainstorming evolved into a robot story, where robots survived to a post-futuristic world where humans had disappeared. As they just survived, there were no energy or fuel to feed robots, so they evolved into a state in which each unity could take energy from different elements, as flowers take energy from the sunlight through photosynthesis. There are some robots that take energy from oil (oil-o-synthesis), other from *Coke* cans (coke-o-synthesis) and other from flowers -they don't do photosynthesis, they steal energy from flowers.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/bender.jpg" align="middle" width="60%">
+</p>
+
+The main character -inspired in *Bender Rodríguez* from *Futurama*- is a poor robot that can't find anything to synthesize energy so he goes to a trash landfill -the parks from the future- where he finds the flower that grew up from trash. After looking at the flower he cuts it and puts it on his chest, stealing the flower's energy. After that the flower and the robot come into a passional interaction represented by the flower growing up and turning into a vine around the robot.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/story_1.jpg" align="middle" width="60%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/story_2.jpg" align="middle" width="60%">
 </p>
