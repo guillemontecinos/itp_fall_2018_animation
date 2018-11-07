@@ -31,4 +31,8 @@ The post-shooting consisted in editing the video and adding sound to the crowd a
 ## Week 2 - Storyboard development and assets creation
 For week 2 we were committed to work in groups to develop a storyboard for a 1-3 minutes animation in AfterFX. For this I worked with Mingna Li and [Nianqi Zhang](https://wp.nyu.edu/nianqi/category/2018/animation/).
 
-Thursday after class my group and I talked about developing a non-sense story in which characters have behaviors that they don't use to have in *real life* (is that non-sense enough?), as Trump being kind or a flower growing up from a machine. We actually started with a flower, and that was all we had. Our expectations were not to tell a story of a nice flower but to set it in a weird landscape or make it fight or be rude, as the flowers of Pink Floyd's movie *The Wall* that represent passion and destruction
+Thursday after class my group and I talked about developing a non-sense story in which characters have behaviors that they don't use to have in *real life* (is that non-sense enough?), as Trump being kind or a flower growing up from a machine. We actually started with a flower, and that was all we had. Our expectations were not to tell a story of a nice flower but to set it in a weird landscape or make it fight or to be rude, as the flowers of Pink Floyd's movie *The Wall* that represent passion and destruction.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/wall_flowers.jpg" align="middle" width="70%">
+</p>
