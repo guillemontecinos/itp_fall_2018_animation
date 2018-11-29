@@ -60,8 +60,10 @@ The story starts in the empty landfill were the flower grows up, but the flower 
 </p>
 
 # Week 3 & 4 - 2D Animation
-During the following weeks we were committed to work in the 2d animation from the storyboard and assets developed in week 2. The animation was done using After Effects. In order to split the job we divided the story into scenes, so each of us had to animate two or at least three scenes. To make the work consistent templates were built for the landfill scene and a color palette was chosen.
+During the following weeks we were committed to work in the 2d animation from the storyboard and assets developed in week 2. The animation was done using After Effects. In order to split the job we divided the story into scenes, so each of us had to animate two or at least three scenes. To make the work consistent, templates were built for the landfill scene and a color palette was chosen.
 
-After all of us finished our parts we met and put all together using the software Adobe Premier. Regarding sound, open source effects and songs were used to create the sensation of being in a real world -except for the soundtrack of the movie *Maniac* which was used without permission, but since this is just an academic exercise it shouldn't represent an offense.
+After all of us finished our parts we met and put it all together using the software Adobe Premier. Regarding sound, open source effects and songs were used to create the sensation of being in a real world -excepting for the soundtrack of the movie *Maniac* which was used without permission, but since this is just an academic exercise it shouldn't represent an offense.
+
+For my particular duties in this project -which were the animation of the *fancy robot eating a Monalisa* and the *poor robot being hungry* I applied the technique of using a traveling camera to zoom in to the head of the *fancy robot*. Furthermore, for the built of the landfill landscape I used a 3D spatialization of the elements, and a shoot with a camera that pan the stage.
 
 [![](https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_4/cover.png)](https://vimeo.com/303410603)
