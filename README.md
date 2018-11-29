@@ -60,6 +60,8 @@ The story starts in the empty landfill were the flower grows up, but the flower 
 </p>
 
 # Week 3 & 4 - 2D Animation
-During the following weeks we were committed to work in the 2d animation from the storyboard and assets developed in week 2. The
+During the following weeks we were committed to work in the 2d animation from the storyboard and assets developed in week 2. The animation was done using After Effects. In order to split the job we divided the story into scenes, so each of us had to animate two or at least three scenes. To make the work consistent templates were built for the landfill scene and a color palette was chosen.
+
+After all of us finished our parts we met and put all together using the software Adobe Premier. Regarding sound, open source effects and songs were used to create the sensation of being in a real world -except for the soundtrack of the movie *Maniac* which was used without permission, but since this is just an academic exercise it shouldn't represent an offense.
 
 [![](https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_4/cover.png)](https://vimeo.com/303410603)
