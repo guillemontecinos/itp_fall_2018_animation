@@ -58,3 +58,8 @@ The story starts in the empty landfill were the flower grows up, but the flower 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_2/storyboard/story_2.jpg" align="middle" width="60%">
 </p>
+
+# Week 3 & 4 - 2D Animation
+During the following weeks we were committed to work in the 2d animation from the storyboard and assets developed in week 2. The
+
+[![](https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_4/cover.png)](https://vimeo.com/303410603)
