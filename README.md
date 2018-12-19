@@ -67,3 +67,22 @@ After all of us finished our parts we met and put it all together using the soft
 For my particular duties in this project -which were the animation of the *fancy robot eating a Monalisa* and the *poor robot being hungry* I applied the technique of using a traveling camera to zoom in to the head of the *fancy robot*. Furthermore, for the built of the landfill landscape I used a 3D spatialization of the elements, and a shoot with a camera that pan the stage.
 
 [![](https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_4/cover.png)](https://vimeo.com/303410603)
+
+# Week 5, 6 & 7 - 3D animation
+For the last part of the course we were introduced into 3D animations through the learning of Unreal Engine, a game development tool which also can be used for animation and sequencing purposes. We were committed to create our own character using the software Adobe Fuse and then animate it in the Adobe Mixamo platform.
+
+In this occasion I decided to explore my own body as a character by creating an avatar of myself. For that I was scanned by a third person using the itSeez3d platform and sensor, which provided an `.obj` file and the texture of my body.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_7/itseez3s_model.png" align="middle" width="60%">
+</p>
+
+This model was auto-rigged and animated in Mixamo, a free platform provided by Adobe in which an `.obj` file can be fitted into a skeleton in which animations can be attached. Both the skeleton and the animations were imported to Unreal Engine, were the different animations were sequenced creating a story. My idea in this project was to represent the chaos, anxiety and burden under one can be subjected in stress situations as ITP.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_7/unreal_engine.png" align="middle" width="60%">
+</p>
+
+The storyboard consisted in an anxious dream in which my avatar appear from above a water square floating in heaven. The character stands up and looks around, surprised to be in an unrecognizable place, and starts to walk. As soon as he walks the surface grows under his steps, when he starts to run desperately. The end of the story comes when the character finds himself in front of a big wall which he can't overpass being trapped in the dreamlike world. The soundtrack of the animation is "The Small Print" of Muse (it was used without permission because of the academic purposes of the exercise) because is a song that evokes me anxiety and desperation.
+
+[![](https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_7/cover.png)](https://vimeo.com/307187767)
