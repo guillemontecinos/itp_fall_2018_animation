@@ -74,13 +74,13 @@ For the last part of the course we were introduced into 3D animations through th
 In this occasion I decided to explore my own body as a character by creating an avatar of myself. For that I was scanned by a third person using the itSeez3d platform and sensor, which provided an `.obj` file and the texture of my body.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_7/itseez3s_model.png" align="middle" width="60%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_7/itseez3s_model.png" align="middle" width="80%">
 </p>
 
 This model was auto-rigged and animated in Mixamo, a free platform provided by Adobe in which an `.obj` file can be fitted into a skeleton in which animations can be attached. Both the skeleton and the animations were imported to Unreal Engine, were the different animations were sequenced creating a story. My idea in this project was to represent the chaos, anxiety and burden under one can be subjected in stress situations as ITP.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_7/unreal_engine.png" align="middle" width="60%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_animation/blob/master/week_7/unreal_engine.png" align="middle" width="80%">
 </p>
 
 The storyboard consisted in an anxious dream in which my avatar appear from above a water square floating in heaven. The character stands up and looks around, surprised to be in an unrecognizable place, and starts to walk. As soon as he walks the surface grows under his steps, when he starts to run desperately. The end of the story comes when the character finds himself in front of a big wall which he can't overpass being trapped in the dreamlike world. The soundtrack of the animation is "The Small Print" of Muse (it was used without permission because of the academic purposes of the exercise) because is a song that evokes me anxiety and desperation.
